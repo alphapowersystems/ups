@@ -1,2 +1,0 @@
-# ups
-official webpage
